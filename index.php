@@ -7,7 +7,7 @@
 
     <table border="0">
         <tr>
-            <td width="150">Number of Player</td>
+            <td width="150">Number of Player </td>
             <td>: <input type="number" min="1" name="num_player" required></td>
         </tr>
         <tr>
